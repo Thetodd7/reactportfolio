@@ -1,2 +1,3 @@
-# reactportfolio
-A portfolio using react
+## React Portfolio
+
+A professional portfolio using react.

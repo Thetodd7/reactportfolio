@@ -1,0 +1,33 @@
+.aboutme {
+  background-color: white;
+  display: flex;
+  .pagelayout {
+    flex: 0.5;
+    overflow: hidden;
+
+    .Pictureholder {
+      width: 200px;
+      height: 250px;
+      display: flex;
+      align-items: flex-end;
+      justify-content: center;
+      float: right;
+    }
+  }
+
+  .text {
+    flex: 0.5;
+    position: relative;
+    font-size: 10px;
+
+    .wrapper {
+      width: 90%;
+      height: 100%;
+      padding-left: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      margin: 10px 0;
+    }
+  }
+}
